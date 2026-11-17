@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: Forever Atlas
+## Notes: Records your known flight points, hearth and level for the Forever Atlas map page. Open a flight master's map once per continent.
+## Version: 1
+## SavedVariables: ForeverAtlasDB
+ForeverAtlas.lua

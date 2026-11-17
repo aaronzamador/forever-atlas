@@ -1,0 +1,9 @@
+# your own character, written by build/sync_character.py: never published
+site/character.js
+# caches and downloads that the build scripts recreate
+build/tiles/
+build/cache/
+build/terrain/
+build/test/node_modules/
+__pycache__/
+.DS_Store
