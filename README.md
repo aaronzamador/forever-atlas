@@ -1,5 +1,7 @@
 # Forever Atlas
 
+**Live:** https://aaronzamador.github.io/forever-atlas/
+
 A clickable map of WoW Forever with four tools. Open `site/index.html` in a browser. It works offline.
 
 - **Route:** the fastest way from A to B, using walking or riding, flight paths, boats, zeppelins, the tram and your hearthstone. Gives TomTom waypoints.
